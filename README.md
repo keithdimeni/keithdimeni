@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maurício Dimeni</h1>
 <h3 align="center">I'm a fullstack developer, passionate about .NET | C#</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keithdimeni&label=Profile%20views&color=0e75b6&style=flat" alt="keithdimeni" /> </p>
+## 👨‍💻 About me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keithdimeni" alt="keithdimeni" /></a> </p>
+- 🎓 I am a full stack developer focusing on .NET C# applications..
+- 🌱 Studying deeply **.NET**, **React**, **Software Architecture**.
+- 💡 I love turning ideas into real products.
+- ✍️ I love studying, I'm studying all the time.
 
-- 🌱 I’m currently learning **.NET C#, ASP.NET Core, PostgreSQL**
 
 - 💬 Ask me about **BackEnd Development**
 
