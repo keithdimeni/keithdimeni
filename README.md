@@ -4,7 +4,7 @@
 ## 👨‍💻 About me
 
 - 🎓 I am a full stack developer focusing on .NET C# applications..
-- 🌱 Studying deeply **.NET**, **React**, **Software Architecture**.
+- 🌱 Studying deeply **.NET**.
 - 💡 I love turning ideas into real products.
 - ✍️ I love studying, I'm studying all the time.
 
